@@ -7,7 +7,7 @@ A passionate (mern)-full stack web developer from India
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/meshak-eugene24/)
 
 ## Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/meshak-eugene24/)](https://www.linkedin.com/in/meshak-eugene24/)
+[![LinkedIn]([https://www.linkedin.com/in](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meshak-eugene24/)](https://www.linkedin.com/in/meshak-eugene24/)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
